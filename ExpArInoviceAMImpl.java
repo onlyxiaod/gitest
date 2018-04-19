@@ -1,4 +1,4 @@
- package com.dtxxsoft.expense.ar.invoice;
+package com.dtxxsoft.expense.ar.invoice;
 
 
 import com.dtxxsoft.adf.model.BaseApplicationModule;
